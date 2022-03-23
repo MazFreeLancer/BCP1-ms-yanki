@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: ms-yanki
+  cloud:
+    config:
+      enabled: true
+      uri: http://localhost:8888
+      username: mzena
+      password: 123qwe
